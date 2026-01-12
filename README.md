@@ -1,5 +1,56 @@
 # tempareture
 
+A Flutter application that demonstrates a simple temperature UI.
+
+## Overview
+
+This project is a starting point for a Flutter application. It includes a home screen, theme setup, and several UI widgets for displaying temperature-related metrics.
+
+## Requirements
+
+- Flutter SDK (stable channel)
+- Dart SDK (bundled with Flutter)
+
+## Getting Started
+
+1. Install Flutter: https://docs.flutter.dev/get-started/install
+2. From the project root, fetch dependencies:
+
+```bash
+flutter pub get
+```
+
+3. Run the app on an available device or emulator:
+
+```bash
+flutter run
+```
+
+## Available Platforms
+
+- Android
+- iOS
+- Web
+- macOS / Windows / Linux (desktop)
+
+## Project Structure
+
+- `lib/` — main app code (`main.dart`, screens, widgets, theme)
+- `android/`, `ios/`, `web/`, `linux/`, `macos/`, `windows/` — platform folders
+- `test/` — unit/widget tests
+
+## Resources
+
+- Flutter docs: https://docs.flutter.dev/
+
+## Notes
+
+This repository was generated from `flutter create` and contains additional UI for temperature display and theming. Update this README as the project evolves.
+
+---
+Generated README (also keep `README.md` for the original template).
+# tempareture
+
 A new Flutter project.
 
 ## Getting Started
